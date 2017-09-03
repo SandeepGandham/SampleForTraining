@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'app works!';
 
   methodForTesting(){
-    let userName  = "Sumanth".
+    let userName  = "Sumanth"
   }
 }
